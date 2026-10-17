@@ -90,13 +90,13 @@ Luisa arranca con el personaje `mario` y puede cambiar de personaje las veces qu
 - tipa
 
 #### **Métodos**
-- cambiarJugador
-- aparece
-- encontrar
-- cambiarDeArma
-- estaFeliz
-- nivelDeDefesa
-- recibirTrabajo
-- altura
-- recibirAtaque
-- estaViva
+- x cambiarJugador
+- x aparece
+- x encontrar
+- x cambiarDeArma
+- x estaFeliz
+- x nivelDeDefesa
+- x recibirTrabajo
+- x altura
+- x recibirAtaque
+- x estaViva

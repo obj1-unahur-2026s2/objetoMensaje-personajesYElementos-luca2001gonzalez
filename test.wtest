@@ -1,0 +1,5 @@
+import personajesElementos.*
+test "1. La ballesta arranca con 10 flechas y está cargada" {
+        assert.that(ballesta.estaCargada())
+        assert.equals(10, ballesta.flechas())
+    }
